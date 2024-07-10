@@ -199,3 +199,11 @@ main section{
     padding: 12px 20px;
     border-radius: 8px;
 }
+/* Footer styles section */
+.foot-part{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(13, 19, 33, 0.03);
+    align-items: center;
+    padding: 0 150px 0 150px;
+}
